@@ -1,8 +1,9 @@
 {
-  "version": "2026-01-01-a",
+  "version": "2026-01-03-a",
   "title": "Welcome!",
   "body": [
-    "The table now also contains subscription information.",
+    "The table now can now allow for multiple contributors. For more information refer to the latest blog update.",
     "Also, the website's layout still isn't really adapted for mobile devices."
   ]
+
 }
