@@ -1,1 +1,22 @@
-
+[
+  {
+    "title": "Contributors wanted",
+    "excerpt": "The more the merrier!",
+    "date": "2026-01-03",
+    "bodyHtml": [
+      "<figure class=\"blog-image small left\"><img src=\"assets/blog/manymerry.png\" alt=\"Kinda horror-ish, no?\"></figure>",
+      "<p>I was recently alerted of the fact that having an entire operation be run by a single individual introduces a single weak link into the entire thing - the aforementioned individual themselves. The website will only remain useful for as long as that person is willing to maintain it and keep the information there up to date. And while I'm not going to turn evil any time soon(I already am), I also can't guarantee that will always have the time, energy, and most importantly, ability to keep this website useful. Doubly so for the project that I initially considering embarking on - presenting all the books from The List™ in my table.</p>",
+      "<p>In order to address that critical vulnerability, without redoing the entire thing from scratch in google sheets or something, which, lord knows, is just not something I still have in me after spending all the time to get this thing operational, I decided to, instead, upload the document with the actual data behind the table to a github repository, from where it would then be fetched by the website. This allows me to update the table without eating into my deploy budget on Netlify, but most importantly, it would allow me to invite more people to contribute to the project as Collaborators on github, the only thing that they would be required to have is a github account.</p>"
+      "<p>The same repository also contains the minimal data required for you to easily spin up your version of the table, if you so desire. Look for it in releases. You can test it locally by cmd'ing into the folder containing the files and starting up a local http server. (You will have to install some dependencies first, though.) Actually, maybe I'll eventually create a guide on how to test and host your own website for free and with very little effort.</p>"
+    ]
+  },
+  {
+    "title": "Alert! Alert! We are online!",
+    "excerpt": "This is not a drill! I repeat, this is not a drill!",
+    "date": "2025-12-31",
+    "bodyHtml": [
+      "<figure class=\"blog-image small left\"><img src=\"assets/blog/internet.png\" alt=\"Internet. It's a whole thing!\"></figure>",
+      "<p>Pretty sure that the site still has some missing info ...</p>"
+    ]
+  }
+]
