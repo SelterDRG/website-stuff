@@ -16,7 +16,28 @@
     "date": "2025-12-31",
     "bodyHtml": [
       "<figure class=\"blog-image small left\"><img src=\"assets/blog/internet.png\" alt=\"Internet. It's a whole thing!\"></figure>",
-      "<p>Pretty sure that the site still has some missing info ...</p>"
+      "<p>Pretty sure that the site still has some missing info and a bunch of typos, but it is online and functional. Security certificate is still pending, but rest assured that none of your data will be stolen as it's impossible to submit any through this website.</p>"
+    ]
+  },
+  {
+    "title": "This epic website begins construction",
+    "excerpt": "Some day it will be finished. For now, there's just dust everywhere.",
+    "date": "2025-12-24",
+    "bodyHtml": [
+      "<figure class=\"blog-image small left\"><img src=\"assets/blog/bg_test_square.png\" alt=\"TEST IMAGE\"></figure>",
+      "<p>As you can see, it's quite unfinished at the moment. Although, to be fair, you can't really see it, as it's not online yet. I'll probably make a separate news entry when that happens. Fascinating stuff, really. Recently saw a meme video about a resonance cascade at a Russian powerplant; honestly, it's one of the best half-life sfx videos that I've seen. Just goes to show that meme making is something that is easily accessible to everyone, yet nonetheless contains a lot of room for skill expression.</p>",
+      "<p>What did I mean by that that? Well, nothing in particular, I just need to put some text here to test out the layout, which is why I'm writing all this stuff. Well, we'll see. Honestly, I'm not quite sure that this personal website needs a blog page. What am I going to be writing about there anyway? My breakfast? And, more importantly, who will be reading it? Still, I feel that there is a certain charm to all of those personal websites upon which the people behind them decided to share their thoughts with the uncaring world. Even though you know that no one is going to read them, the extremely slim possibility that someone might alters the way you reflect upon the things you write about.</p>"
+    ]
+  },
+  {
+    "title": "Amazon backs down on forced DRM. Change of heart?",
+    "excerpt": "In other news: witnesses report mass sightings of flocks of flying pigs sailing through the skies.",
+    "date": "2025-12-12",
+    "bodyHtml": [
+      "<figure class=\"blog-image small left\"><img src=\"assets/blog/flying_pig.png\" alt=\"Sometimes the impossible is possible\"></figure>",
+      "<p>Yep, you've heard it right. Effective january 2026, Amazon is set to allow the users to download some of the ebooks they've purchased on Amazon's platform as DRM-free epub or pdf files, marking a sharp pivot from their prior policy. If you've been living under a rock for the past few years, or have been otherwise blissfully insulated from the going-ons in the digital realm, then, first, I envy you, and second: Amazon <i>allowed</i> the authors to make their books DRM-free, but \"forgot\" to ensure that the choice would actually render them decryptable. This is the reason why there are no DRM-free Amazon offerings in the table - until January 2026, if your ebook is only available on Amazon, it is effectively DRM-only.</p>",
+      "<p>One can't help but wonder what caused this sudden change of heart. Did Amazon's conscience finally got the better of them? Hah, nah. It's far more likely that they realized that with their recent changes effectively making it impossible to get a DRM-free ebooks on their platform that, just so you know, accounts for about 90% of the ebook market, some of the regulators (in EU) might take a closer look on the activities of a certain little bookshop run by Jeff. It is in order to avoid this most unfortunate turn of events that the change was most likely made. Just like a lizard sheds its tail when threatened by predators, Amazon decided to abandon one of their anti-consumer practices so that they could carry on with the rest. From this angle, one could argue that Amazon's decision is, in truth, a bad thing for the consumers, as it further delays the long-overdue regulatory intervention into their questionable business practices.</p>",
+      "<p>Regardless of the reasons, I'll take whatever small win we can get. Yet, since we've established that the change is unlikely to be there for out benefit, it is entirely possible that Amazon could decide to be dicks about implementing it. As it stands, my biggest concern currently is that Amazon might continue not disclosing whether a book is DRM-free, even as they implement the changes. This would, of course, make the availability table even more useful, but it would also make the data for it much more difficult to acquire.</p>"
     ]
   }
 ]
