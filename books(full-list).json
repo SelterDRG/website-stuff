@@ -1,6 +1,6 @@
 [
     {
-        "cover": "cover3.jpg",
+        "cover": "the-chronicles-of-the-amberdrake.jpg",
         "author": "Loren K. Bones",
         "title": "The Chronicles of Amberdrake",
         "url": "https://www.goodreads.com/book/show/44769846-the-chronicles-of-amberdrake",
@@ -19,7 +19,7 @@
         "audiobook": null
     },
     {
-        "cover": "cover4.jpg",
+        "cover": "sphere-of-eternity.jpg",
         "author": "L.J. Davies",
         "title": "Sphere of Eternity",
         "url": "https://www.goodreads.com/book/show/58080566-sphere-of-eternity",
@@ -48,7 +48,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover5.jpg",
+        "cover": "fallen-star.jpg",
         "author": "L.J. Davies",
         "title": "Fallen Star",
         "url": "https://www.goodreads.com/book/show/58121945-fallen-star",
@@ -77,7 +77,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover6.jpg",
+        "cover": "tooth-and-claw.jpg",
         "author": "Jo Walton",
         "title": "Tooth and Claw",
         "url": "https://www.goodreads.com/book/show/17675797-tooth-and-claw",
@@ -109,7 +109,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover7.jpg",
+        "cover": "a-dragon's-chains.jpg",
         "author": "Robert Vane",
         "title": "A Dragon's Chains",
         "url": "https://www.goodreads.com/book/show/58093141-a-dragon-s-chains",
@@ -138,7 +138,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover8.jpg",
+        "cover": "age-of-legend.jpg",
         "author": "L.J. Davies",
         "title": "Age of Legend",
         "url": "https://www.goodreads.com/book/show/58269909-age-of-legend",
@@ -167,7 +167,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover9.jpg",
+        "cover": "scaleshifter.jpg",
         "author": "Shelby Hailstone Law",
         "title": "Scaleshifter",
         "url": "https://www.goodreads.com/book/show/52993968-scaleshifter",
@@ -196,7 +196,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover10.jpg",
+        "cover": "the-black-dragon.jpg",
         "author": "Shelby Hailstone Law",
         "title": "The Black Dragon",
         "url": "https://www.goodreads.com/book/show/55023430-the-black-dragon",
@@ -225,7 +225,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover11.jpg",
+        "cover": "dragon's-ring.jpg",
         "author": "Dave Freer",
         "title": "Dragon's Ring",
         "url": "https://www.goodreads.com/book/show/67284868-dragon-s-ring",
@@ -254,7 +254,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover12.jpg",
+        "cover": "vainqueur-the-dragon.jpg",
         "author": "Maxime J. Durand",
         "title": "Vainqueur the Dragon",
         "url": "https://www.goodreads.com/book/show/48915911-vainqueur-the-dragon",
@@ -289,7 +289,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover13.jpg",
+        "cover": "dragonfriend.jpg",
         "author": "Marc Seccia",
         "title": "Dragonfriend",
         "url": "https://www.goodreads.com/book/show/26799796-dragonfriend",
@@ -320,7 +320,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover14.jpg",
+        "cover": "dragonlove.jpg",
         "author": "Marc Seccia",
         "title": "Dragonlove",
         "url": "https://www.goodreads.com/book/show/25858836-dragonlove",
@@ -343,7 +343,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover15.jpg",
+        "cover": "child-of-the-daystar.jpg",
         "author": "Bryce O'Connor",
         "title": "Child of the Daystar",
         "url": "https://www.goodreads.com/book/show/28182262-child-of-the-daystar",
@@ -372,7 +372,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover16.jpg",
+        "cover": "dragon-and-thief.jpg",
         "author": "Timothy Zahn",
         "title": "Dragon and Thief",
         "url": "https://www.goodreads.com/book/show/38335692-dragon-and-thief",
@@ -401,7 +401,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover17.jpg",
+        "cover": "mating-flight-a-non-romance-of-dragons.jpg",
         "author": "Bard Bloom",
         "title": "Mating Flight: A Non-Romance of Dragons",
         "url": "https://www.goodreads.com/book/show/26066421-mating-flight",
@@ -428,7 +428,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover18.jpg",
+        "cover": "dragon-champion.jpg",
         "author": "E.E. Knight",
         "title": "Dragon Champion",
         "url": "https://www.goodreads.com/book/show/35428756-dragon-champion",
@@ -460,7 +460,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover19.jpg",
+        "cover": "dragon-dreams.jpg",
         "author": "C.B. Morgan",
         "title": "Dragon Dreams",
         "url": "https://www.goodreads.com/book/show/59821968-dragon-dreams",
@@ -483,7 +483,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover20.jpg",
+        "cover": "lazy-scales.jpg",
         "author": "DM Gilmore",
         "title": "Lazy Scales",
         "url": "https://www.goodreads.com/book/show/55252443-lazy-scales",
@@ -512,7 +512,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover21.jpg",
+        "cover": "dragon-source.jpg",
         "author": "Glenn Birmingham",
         "title": "Dragon Source",
         "url": "https://www.goodreads.com/book/show/48591890-dragon-source",
@@ -554,7 +554,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover22.jpg",
+        "cover": "when-women-were-dragons.jpg",
         "author": "Kelly Barnhill",
         "title": "When Women Were Dragons",
         "url": "https://www.goodreads.com/book/show/57033379-when-women-were-dragons",
@@ -600,7 +600,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover23.jpg",
+        "cover": "spark-the-fire.jpg",
         "author": "Melissa McShane",
         "title": "Spark the Fire",
         "url": "https://www.goodreads.com/book/show/58389420-spark-the-fire",
@@ -650,7 +650,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover24.jpg",
+        "cover": "eyrie.jpg",
         "author": "K. Vale Nagle",
         "title": "Eyrie",
         "url": "https://www.goodreads.com/book/show/44292600-eyrie",
@@ -700,7 +700,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover25.jpg",
+        "cover": "axtara-banking-and-finance.jpg",
         "author": "Max Florschutz",
         "title": "Axtara - Banking and Finance",
         "url": "https://www.goodreads.com/book/show/56383097-axtara---banking-and-finance",
@@ -729,7 +729,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover26.jpg",
+        "cover": "the-wearle.jpg",
         "author": "Chris d'Lacey",
         "title": "The Wearle",
         "url": "https://www.goodreads.com/book/show/27409234-the-wearle",
@@ -765,7 +765,7 @@
         "audiobook": "Yes (B&N)"
     },
     {
-        "cover": "cover27.jpg",
+        "cover": "the-dragon's-paladin.jpg",
         "author": "Justin A. Lee",
         "title": "The Dragon's Paladin",
         "url": "https://www.goodreads.com/book/show/40910145-scales-and-honor",
@@ -798,7 +798,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover28.jpg",
+        "cover": "dragon-of-ash-&-stars.jpg",
         "author": "H. Leighton Dickson",
         "title": "Dragon of Ash & Stars",
         "url": "https://www.goodreads.com/book/show/31279046-dragon-of-ash-stars",
@@ -827,7 +827,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover2.jpg",
+        "cover": "feathers-of-gold.jpg",
         "author": "Rowan Silver",
         "title": "Feathers of Gold",
         "url": "https://www.goodreads.com/book/show/61998449-feathers-of-gold",
@@ -855,7 +855,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover29.jpg",
+        "cover": "song-of-the-summer-king.jpg",
         "author": "Jess E. Owen",
         "title": "Song of the Summer King",
         "url": "https://www.goodreads.com/book/show/15751365-song-of-the-summer-king",
@@ -883,7 +883,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover30.jpg",
+        "cover": "queen-in-the-mud.jpg",
         "author": "Maari",
         "title": "Queen in the Mud",
         "url": "https://www.goodreads.com/book/show/53415675-queen-in-the-mud",
@@ -917,7 +917,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover31.jpg",
+        "cover": "-the-forgotten-element.jpg",
         "author": "Chester Young",
         "title": "The Forgotten Element",
         "url": "https://www.goodreads.com/book/show/58812436-the-forgotten-element",
@@ -935,7 +935,7 @@
         "audiobook": null
     },
     {
-        "cover": "cover32.jpg",
+        "cover": "the-gryphon-generation.jpg",
         "author": "Alexander Bizzell",
         "title": "The Gryphon Generation",
         "url": "https://www.goodreads.com/book/show/39332595-the-gryphon-generation",
@@ -963,7 +963,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover33.jpg",
+        "cover": "royal-red.jpg",
         "author": "K.C. Shaw",
         "title": "Royal Red",
         "url": "https://www.goodreads.com/book/show/61879225-royal-red",
@@ -989,7 +989,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover34.jpg",
+        "cover": "my-father's-dragon.jpg",
         "author": "Ruth Stiles Gannett",
         "title": "My Father's Dragon",
         "url": "https://www.goodreads.com/en/book/show/34898",
@@ -1019,7 +1019,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover35.jpg",
+        "cover": "lutapolii-white-dragon-of-the-south.jpg",
         "author": "Deryn Pittar",
         "title": "Lutapolii: White Dragon of the South",
         "url": "https://www.goodreads.com/book/show/38139523-lutapolii",
@@ -1047,7 +1047,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover36.jpg",
+        "cover": "lohikarmen.jpg",
         "author": "Carmine Bruzi",
         "title": "Lohikarmen",
         "url": "https://www.goodreads.com/book/show/93244973-lohikarmen",
@@ -1083,7 +1083,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover37.jpg",
+        "cover": "kraamlok.jpg",
         "author": "Shaaron Plumb",
         "title": "Kraamlok",
         "url": "https://www.goodreads.com/book/show/55846969-kraamlok",
@@ -1111,7 +1111,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover38.jpg",
+        "cover": "dragon-student-sythyry's-journal.jpg",
         "author": "Bard Bloom",
         "title": "Dragon Student: Sythyry's Journal",
         "url": "https://www.goodreads.com/book/show/31362246-dragon-student",
@@ -1138,7 +1138,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover39.jpg",
+        "cover": "a-dream-of-wings-&-flame.jpg",
         "author": "Cale Plamann",
         "title": "A Dream of Wings & Flame",
         "url": "https://www.goodreads.com/book/show/62015939-a-dream-of-wings-flame",
@@ -1172,7 +1172,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover40.jpg",
+        "cover": "the-last-monster-on-earth.jpg",
         "author": "L.J. Davies",
         "title": "The Last Monster On Earth",
         "url": "https://www.goodreads.com/book/show/123254723-the-last-monster-on-earth",
@@ -1200,7 +1200,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover41.jpg",
+        "cover": "where-dragons-rule-dissent.jpg",
         "author": "Sonny Dae",
         "title": "Where Dragons Rule: Dissent",
         "url": "https://www.goodreads.com/book/show/219321416-where-dragons-rule",
@@ -1222,7 +1222,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover42.jpg",
+        "cover": "burning-stars-afterdark.jpg",
         "author": "Rurik Redwolf",
         "title": "Burning Stars: Afterdark",
         "url": "https://www.goodreads.com/book/show/57716668",
@@ -1250,7 +1250,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover43.jpg",
+        "cover": "the-princess's-feathers.jpg",
         "author": "Zang",
         "title": "The Princess's Feathers",
         "url": "https://www.goodreads.com/book/show/228369339-the-princess-s-feathers",
@@ -1281,7 +1281,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover44.jpg",
+        "cover": "the-crimson-torch.jpg",
         "author": "Angela Holder",
         "title": "The Crimson Torch",
         "url": "https://www.goodreads.com/book/show/41552747-the-crimson-torch",
@@ -1309,7 +1309,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover45.jpg",
+        "cover": "raptor-red.jpg",
         "author": "Robert T. Bakker",
         "title": "Raptor Red",
         "url": "https://www.goodreads.com/book/show/117710.Raptor_Red",
@@ -1336,7 +1336,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover46.jpg",
+        "cover": "eyes-of-silver.jpg",
         "author": "Rowan Silver",
         "title": "Eyes of Silver",
         "url": "https://www.goodreads.com/book/show/157643353-eyes-of-silver",
@@ -1364,7 +1364,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover47.jpg",
+        "cover": "tail-of-revenge.jpg",
         "author": "Chester Young",
         "title": "Tail of Revenge",
         "url": "https://www.goodreads.com/book/show/63358359-tail-of-revenge",
@@ -1392,7 +1392,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover48.jpg",
+        "cover": "reincarnated-as-a-dragon-hatchling.jpg",
         "author": "Necoco",
         "title": "Reincarnated as a Dragon Hatchling",
         "url": "https://www.goodreads.com/book/show/58269339-reincarnated-as-a-dragon-hatchling-light-novel-vol-1",
@@ -1436,7 +1436,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover49.jpg",
+        "cover": "silver-sand-and-silken-wings.jpg",
         "author": "Heiko Ehlers",
         "title": "Silver, Sand, and Silken Wings",
         "url": "https://www.goodreads.com/book/show/180210699-silver-sand-and-silken-wings",
@@ -1464,7 +1464,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover50.jpg",
+        "cover": "new-dragon-city.jpg",
         "author": "Mari Mancus",
         "title": "New Dragon City",
         "url": "https://www.goodreads.com/book/show/180210699-silver-sand-and-silken-wings",
@@ -1494,7 +1494,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover51.jpg",
+        "cover": "bound-in-scales.jpg",
         "author": "Bound in Scales",
         "title": "Steven De Luca",
         "url": "https://www.goodreads.com/book/show/36703268-bound-in-scales",
@@ -1522,7 +1522,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover52.jpg",
+        "cover": "petrichor.jpg",
         "author": "C.E. Wright",
         "title": "Petrichor",
         "url": "https://www.goodreads.com/book/show/63008129-petrichor",
@@ -1550,7 +1550,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover53.jpg",
+        "cover": "highfire.jpg",
         "author": "Eoin Colfer",
         "title": "Highfire",
         "url": "https://www.goodreads.com/book/show/44890077-highfire",
@@ -1578,7 +1578,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover54.jpg",
+        "cover": "dragon-prayers.jpg",
         "author": "M.J. McPike",
         "title": "Dragon Prayers",
         "url": "https://www.goodreads.com/book/show/28809746-dragon-prayers",
@@ -1606,7 +1606,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover55.png",
+        "cover": "here-be-dragons.png",
         "author": "Second_sol",
         "title": "Here Be Dragons",
         "vendors": {
@@ -1626,7 +1626,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover56.jpg",
+        "cover": "scales-of-pearl.jpg",
         "author": "Rowan Silver",
         "title": "Scales of Pearl",
         "url": "https://www.goodreads.com/book/show/201332881",
@@ -1676,7 +1676,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover57.jpg",
+        "cover": "the-fifth.jpg",
         "author": "Saylor Ferguson",
         "title": "The Fifth",
         "url": "https://www.goodreads.com/book/show/148190351-the-fifth",
@@ -1704,7 +1704,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover58.jpg",
+        "cover": "the-chosen-prince.jpg",
         "author": "Shaidan Barnes",
         "title": "The Chosen Prince",
         "url": "https://www.goodreads.com/book/show/205755050",
@@ -1732,7 +1732,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover59.jpg",
+        "cover": "axinstone.jpg",
         "author": "J.F.R. Coates",
         "title": "Axinstone",
         "url": "https://www.goodreads.com/book/show/204351073",
@@ -1781,7 +1781,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover60.jpg",
+        "cover": "smash-the-world's-shell.jpg",
         "author": "Daniel Fliederbaum",
         "title": "Smash the World's Shell",
         "url": "https://www.goodreads.com/book/show/197688271",
@@ -1825,7 +1825,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover61.jpg",
+        "cover": "his-majesty's-dragon.jpg",
         "author": "Naomi Novik",
         "title": "His Majesty's Dragon",
         "url": "https://www.goodreads.com/book/show/18626894-his-majesty-s-dragon",
@@ -1855,7 +1855,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover62.jpg",
+        "cover": "the-black-gryphon.jpg",
         "author": "Mercedes Lackey",
         "title": "The Black Gryphon",
         "url": "https://www.goodreads.com/book/show/176804.The_Black_Gryphon",
@@ -1932,7 +1932,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover63.jpg",
+        "cover": "axtara-magic-and-mischief.jpg",
         "author": "Max Florschutz",
         "title": "Axtara - Magic and Mischief",
         "url": "https://www.goodreads.com/book/show/215354625-axtara---magic-and-mischief",
@@ -1960,7 +1960,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover64.jpg",
+        "cover": "the-dragon's-call.jpg",
         "author": "Peter Dressler",
         "title": "The Dragon's Call",
         "url": "https://www.goodreads.com/book/show/54020637-the-dragon-s-call",
@@ -2008,7 +2008,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover65.jpg",
+        "cover": "hunted.jpg",
         "author": "Skye Melki-Wegner",
         "title": "Hunted",
         "url": "https://www.goodreads.com/book/show/60405316-the-deadlands",
@@ -2043,7 +2043,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover66.jpg",
+        "cover": "upon-wings-of-change.jpg",
         "author": "Crystal Scherer",
         "title": "Upon Wings of Change",
         "url": "https://www.goodreads.com/book/show/53136511-upon-wings-of-change",
@@ -2089,7 +2089,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover67.jpg",
+        "cover": "the-bakery-dragon.jpg",
         "author": "Devin Elle Kurtz",
         "title": "The Bakery Dragon",
         "url": "https://www.goodreads.com/book/show/205484319-the-bakery-dragon",
@@ -2131,7 +2131,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover68.jpg",
+        "cover": "emerald-secrets.jpg",
         "author": "Justin A. Lee",
         "title": "Emerald Secrets",
         "url": "https://www.goodreads.com/book/show/219844368-scales-and-honor",
@@ -2163,7 +2163,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover69.jpg",
+        "cover": "ashen-dreams.jpg",
         "author": "Rurik Redwolf",
         "title": "Ashen Dreams",
         "url": "https://www.goodreads.com/book/show/126575317-ashen-dreams",
@@ -2191,7 +2191,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover70.jpg",
+        "cover": "dragons-of-frost-and-fang.jpg",
         "author": "Rowan Silver",
         "title": "Dragons of Frost and Fang",
         "url": "https://www.goodreads.com/book/show/222297375-dragons-of-frost-and-fang",
@@ -2219,7 +2219,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover71.jpg",
+        "cover": "the-tachanigh-kelkaith.jpg",
         "author": "Rakeela Windrider",
         "title": "The Tachanigh-Kelkaith",
         "url": "https://www.goodreads.com/book/show/142401180",
@@ -2244,7 +2244,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover72.jpg",
+        "cover": "the-scarred-prince.jpg",
         "author": "Shaidan Barnes",
         "title": "The Scarred Prince",
         "url": "https://www.goodreads.com/book/show/222257591-scales-of-fate",
@@ -2272,7 +2272,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover73.png",
+        "cover": "silver-talon-college-of-magic.png",
         "author": "ALHHill",
         "title": "Silver Talon College of Magic",
         "vendors": {
@@ -2292,7 +2292,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover74.png",
+        "cover": "the-crushing-light.png",
         "author": "AlbinoDeer",
         "title": "The Crushing Light",
         "vendors": {
@@ -2312,7 +2312,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover75.jpg",
+        "cover": "how-to-be-a-hero-and-part-time-dragon.jpg",
         "author": "S. Blakeway",
         "title": "How to be a Hero: (And Part-Time Dragon)",
         "url": "https://www.goodreads.com/book/show/25770175-how-to-be-a-hero",
@@ -2340,7 +2340,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover76.jpg",
+        "cover": "the-lost-firebreather.jpg",
         "author": "DM Gilmore",
         "title": "The Lost Firebreather",
         "url": "https://www.goodreads.com/book/show/229244868-the-lost-firebreather",
@@ -2368,7 +2368,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover77.png",
+        "cover": "the-shining-wyrm.png",
         "author": "Nighzmarquls",
         "title": "The Shining Wyrm",
         "vendors": {
@@ -2388,7 +2388,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover78.png",
+        "cover": "meghanology.png",
         "author": "theInmara",
         "title": "Meghanology",
         "url": "https://www.goodreads.com/book/show/223465577-girldragongizzard",
@@ -2423,7 +2423,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover79.jpg",
+        "cover": "a-chronicle-of-lies-the-dark-sculptor.jpg",
         "author": "Abraham Carson",
         "title": "A Chronicle of Lies: The Dark Sculptor",
         "url": "https://www.goodreads.com/book/show/221381946-a-chronicle-of-lies",
@@ -2455,7 +2455,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover80.jpg",
+        "cover": "dragon's-soul.jpg",
         "author": "J.F.R. Coates",
         "title": "Dragon's Soul",
         "url": "https://www.goodreads.com/book/show/234797093-dragon-s-soul",
@@ -2503,7 +2503,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover81.jpg",
+        "cover": "the-waters-of-nyra-volume-1.jpg",
         "author": "Kelly Michelle Baker",
         "title": "The Waters of Nyra: Volume 1",
         "url": "https://www.goodreads.com/book/show/36762063-the-waters-of-nyra",
@@ -2537,7 +2537,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover82.jpg",
+        "cover": "picky-eaters.jpg",
         "author": "S.J. Higbee",
         "title": "Picky Eaters",
         "url": "https://www.goodreads.com/book/show/54221358-picky-eaters",
@@ -2565,7 +2565,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover83.jpg",
+        "cover": "sapphire-stars-and-sandstone-hearts.jpg",
         "author": "Heiko Ehlers",
         "title": "Sapphire Stars and Sandstone Hearts",
         "url": "https://www.goodreads.com/book/show/231316014-sapphire-stars-and-sandstone-hearts",
@@ -2593,7 +2593,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover84.png",
+        "cover": "the-wyrms-of-&alon.png",
         "author": "M.C. Siegel",
         "title": "The Wyrms of &alon",
         "vendors": {
@@ -2613,7 +2613,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover85.png",
+        "cover": "chained-flame.png",
         "author": "Saffron Drake",
         "title": "Chained Flame",
         "url": "https://books2read.com/b/mKMan9",
@@ -2664,7 +2664,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover86.jpg",
+        "cover": "tails-of-the-west-the-silver-fang.jpg",
         "author": "Mr M Remington",
         "title": "Tails of the West: The Silver Fangs",
         "url": "https://www.goodreads.com/book/show/222852128-tails-of-the-west",
@@ -2685,7 +2685,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover87.jpg",
+        "cover": "the-iron-prince.jpg",
         "author": "DM Gilmore",
         "title": "The Iron Prince",
         "url": "https://www.goodreads.com/book/show/242397468",
@@ -2713,7 +2713,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover1.jpg",
+        "cover": "knight-of-talonia.jpg",
         "author": "Rakeela Windrider",
         "title": "Knight of Talonia",
         "url": "https://www.goodreads.com/book/show/237419535",
@@ -2739,7 +2739,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover88.jpg",
+        "cover": "call-me-dragon.jpg",
         "author": "Marc Secchia",
         "title": "Call Me Dragon",
         "url": "https://www.goodreads.com/book/show/55781409",
@@ -2767,7 +2767,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover89.jpg",
+        "cover": "dragons-of-the-veil.jpg",
         "author": "DeVout Numelran",
         "title": "Dragons of the Veil",
         "url": "https://www.goodreads.com/book/show/240644462",
@@ -2795,7 +2795,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover90.jpg",
+        "cover": "tumbleteller.jpg",
         "author": "Lars Jensen",
         "title": "Tumbleteller",
         "url": "https://www.goodreads.com/book/show/122778258-tumbleteller",
@@ -2844,7 +2844,7 @@
         "audiobook": false
     },
     {
-        "cover": "cover91.jpg",
+        "cover": "dragon-rider.jpg",
         "author": "Cornelia Funke",
         "title": "Dragon Rider",
         "url": "https://www.goodreads.com/book/show/21171501-dragon-rider",
@@ -2894,7 +2894,7 @@
         "audiobook": true
     },
     {
-        "cover": "cover92.jpg",
+        "cover": "reverting-scales.jpg",
         "author": "The Illogic",
         "title": "Reverting Scales",
         "url": "https://www.goodreads.com/book/show/205531889-reverting-scales",
@@ -2921,4 +2921,5 @@
         "digitalOnly": false,
         "audiobook": false
     }
+
 ]
