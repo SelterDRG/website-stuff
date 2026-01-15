@@ -22,6 +22,7 @@
         "cover": "sphere-of-eternity.jpg",
         "author": "L.J. Davies",
         "title": "Sphere of Eternity",
+        "series": "Dragonfire 1",
         "url": "https://www.goodreads.com/book/show/58080566-sphere-of-eternity",
         "vendors": {
             "amazon": {
@@ -51,6 +52,7 @@
         "cover": "fallen-star.jpg",
         "author": "L.J. Davies",
         "title": "Fallen Star",
+        "series": "Dragonfire 2",
         "url": "https://www.goodreads.com/book/show/58121945-fallen-star",
         "vendors": {
             "amazon": {
@@ -141,6 +143,7 @@
         "cover": "age-of-legend.jpg",
         "author": "L.J. Davies",
         "title": "Age of Legend",
+        "series": "Dragonfire 3",
         "url": "https://www.goodreads.com/book/show/58269909-age-of-legend",
         "vendors": {
             "amazon": {
@@ -2923,4 +2926,5 @@
     }
 
 ]
+
 
