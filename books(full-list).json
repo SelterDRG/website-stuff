@@ -1,6 +1,6 @@
 [
     {
-        "cover": "the-chronicles-of-the-amberdrake.jpg",
+        "cover": "the-chronicles-of-amberdrake.jpg",
         "author": "Loren K. Bones",
         "title": "The Chronicles of Amberdrake",
         "url": "https://www.goodreads.com/book/show/44769846-the-chronicles-of-amberdrake",
@@ -917,7 +917,7 @@
         "audiobook": true
     },
     {
-        "cover": "-the-forgotten-element.jpg",
+        "cover": "the-forgotten-element.jpg",
         "author": "Chester Young",
         "title": "The Forgotten Element",
         "url": "https://www.goodreads.com/book/show/58812436-the-forgotten-element",
@@ -2043,7 +2043,7 @@
         "audiobook": true
     },
     {
-        "cover": "upon-wings-of-change.jpg",
+        "cover": "upon-wings-of-change.png",
         "author": "Crystal Scherer",
         "title": "Upon Wings of Change",
         "url": "https://www.goodreads.com/book/show/53136511-upon-wings-of-change",
@@ -2312,7 +2312,7 @@
         "audiobook": false
     },
     {
-        "cover": "how-to-be-a-hero-and-part-time-dragon.jpg",
+        "cover": "how-to-be-a-hero-(and-part-time-dragon).jpg",
         "author": "S. Blakeway",
         "title": "How to be a Hero: (And Part-Time Dragon)",
         "url": "https://www.goodreads.com/book/show/25770175-how-to-be-a-hero",
@@ -2664,7 +2664,7 @@
         "audiobook": false
     },
     {
-        "cover": "tails-of-the-west-the-silver-fang.jpg",
+        "cover": "tails-of-the-west-the-silver-fangs.jpg",
         "author": "Mr M Remington",
         "title": "Tails of the West: The Silver Fangs",
         "url": "https://www.goodreads.com/book/show/222852128-tails-of-the-west",
@@ -2923,3 +2923,4 @@
     }
 
 ]
+
