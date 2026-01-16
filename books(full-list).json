@@ -310,6 +310,7 @@
             "bn": {
                 "url": "https://www.barnesandnoble.com/w/dragonfriend-marc-secchia/1121670265?ean=2940181316034",
                 "drm": false,
+                "confirmed": false,
                 "free": false
             },
             "rr": null,
