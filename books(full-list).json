@@ -1500,6 +1500,7 @@
         "cover": "bound-in-scales.jpg",
         "author": "Bound in Scales",
         "title": "Steven De Luca",
+        "series": "susamogus 1",
         "url": "https://www.goodreads.com/book/show/36703268-bound-in-scales",
         "vendors": {
             "amazon": {
@@ -1584,6 +1585,7 @@
         "cover": "dragon-prayers.jpg",
         "author": "M.J. McPike",
         "title": "Dragon Prayers",
+        "series": "susamogus 2",
         "url": "https://www.goodreads.com/book/show/28809746-dragon-prayers",
         "vendors": {
             "amazon": {
@@ -2926,5 +2928,6 @@
     }
 
 ]
+
 
 
