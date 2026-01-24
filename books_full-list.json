@@ -1652,6 +1652,8 @@
         "author": "C.E. Wright",
         "title": "Petrichor",
         "series": "Head in the Clouds 1",
+        "rating": "3.94",
+        "r_count": "16",
         "url": "https://www.goodreads.com/book/show/63008129-petrichor",
         "vendors": {
             "amazon": {
@@ -1674,9 +1676,7 @@
         "drmFree": false,
         "free": false,
         "digitalOnly": false,
-        "audiobook": false,
-        "rating": "3.94",
-        "r_count": "16"
+        "audiobook": false
     },
     {
         "cover": "highfire.jpg",
