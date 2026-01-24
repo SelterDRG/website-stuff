@@ -3,8 +3,8 @@
         "cover": "the-chronicles-of-amberdrake.jpg",
         "author": "Loren K. Jones",
         "title": "The Chronicles of Amberdrake",
-        "rating": "4.41",
-        "r_count": "368",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/44769846-the-chronicles-of-amberdrake",
         "vendors": {
             "amazon": null,
@@ -25,8 +25,8 @@
         "author": "L.J. Davies",
         "title": "Sphere of Eternity",
         "series": "Dragonfire 1",
-        "rating": "4.34",
-        "r_count": "83",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/58080566-sphere-of-eternity",
         "vendors": {
             "amazon": {
@@ -57,8 +57,8 @@
         "author": "L.J. Davies",
         "title": "Fallen Star",
         "series": "Dragonfire 2",
-        "rating": "4.8",
-        "r_count": "45",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/58121945-fallen-star",
         "vendors": {
             "amazon": {
@@ -88,8 +88,8 @@
         "cover": "tooth-and-claw.jpg",
         "author": "Jo Walton",
         "title": "Tooth and Claw",
-        "rating": "3.88",
-        "r_count": "7052",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/17675797-tooth-and-claw",
         "vendors": {
             "amazon": {
@@ -122,8 +122,8 @@
         "cover": "a-dragon's-chains.jpg",
         "author": "Robert Vane",
         "title": "A Dragon's Chains",
-        "rating": "4.28",
-        "r_count": "1593",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/58093141-a-dragon-s-chains",
         "vendors": {
             "amazon": {
@@ -154,8 +154,8 @@
         "author": "L.J. Davies",
         "title": "Age of Legend",
         "series": "Dragonfire 3",
-        "rating": "4.9",
-        "r_count": "39",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/58269909-age-of-legend",
         "vendors": {
             "amazon": {
@@ -186,8 +186,8 @@
         "author": "Shelby Hailstone Law",
         "title": "Scaleshifter",
         "series": "Scaleshifter 1",
-        "rating": "4.5",
-        "r_count": "431",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/52993968-scaleshifter",
         "vendors": {
             "amazon": {
@@ -217,9 +217,9 @@
         "cover": "the-black-dragon.jpg",
         "author": "Shelby Hailstone Law",
         "title": "The Black Dragon",
-        "series": "Scaleshifter 2",
-        "rating": "4.52",
-        "r_count": "319",
+        "series":"Scaleshifter 2",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/55023430-the-black-dragon",
         "vendors": {
             "amazon": {
@@ -249,8 +249,8 @@
         "cover": "dragon's-ring.jpg",
         "author": "Dave Freer",
         "title": "Dragon's Ring",
-        "rating": "4.12",
-        "r_count": "306",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/67284868-dragon-s-ring",
         "vendors": {
             "amazon": {
@@ -280,8 +280,8 @@
         "cover": "vainqueur-the-dragon.jpg",
         "author": "Maxime J. Durand",
         "title": "Vainqueur the Dragon",
-        "rating": "4.17",
-        "r_count": "1993",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/48915911-vainqueur-the-dragon",
         "vendors": {
             "amazon": {
@@ -318,8 +318,8 @@
         "author": "Marc Seccia",
         "title": "Dragonfriend",
         "series": "Dragonfriend 1",
-        "rating": "4.29",
-        "r_count": "1407",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/26799796-dragonfriend",
         "vendors": {
             "amazon": {
@@ -352,8 +352,8 @@
         "author": "Marc Seccia",
         "title": "Dragonlove",
         "series": "Dragonfriend 2",
-        "rating": "4.35",
-        "r_count": "895",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/25858836-dragonlove",
         "vendors": {
             "amazon": {
@@ -377,8 +377,8 @@
         "cover": "child-of-the-daystar.jpg",
         "author": "Bryce O'Connor",
         "title": "Child of the Daystar",
-        "rating": "4.11",
-        "r_count": "4312",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/28182262-child-of-the-daystar",
         "vendors": {
             "amazon": {
@@ -408,8 +408,8 @@
         "cover": "dragon-and-thief.jpg",
         "author": "Timothy Zahn",
         "title": "Dragon and Thief",
-        "rating": "4.02",
-        "r_count": "3827",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/38335692-dragon-and-thief",
         "vendors": {
             "amazon": {
@@ -439,8 +439,8 @@
         "cover": "mating-flight-a-non-romance-of-dragons.jpg",
         "author": "Bard Bloom",
         "title": "Mating Flight: A Non-Romance of Dragons",
-        "rating": "4.23",
-        "r_count": "75",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/26066421-mating-flight",
         "vendors": {
             "amazon": {
@@ -469,8 +469,8 @@
         "author": "E.E. Knight",
         "title": "Dragon Champion",
         "series": "Age of Fire 1",
-        "rating": "3.99",
-        "r_count": "6442",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/35428756-dragon-champion",
         "vendors": {
             "amazon": {
@@ -503,8 +503,8 @@
         "cover": "dragon-dreams.jpg",
         "author": "C.B. Morgan",
         "title": "Dragon Dreams",
-        "rating": "4.44",
-        "r_count": "41",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/59821968-dragon-dreams",
         "vendors": {
             "amazon": {
@@ -529,8 +529,8 @@
         "author": "DM Gilmore",
         "title": "Lazy Scales",
         "series": "Lazy Scales 1",
-        "rating": "4.04",
-        "r_count": "101",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/55252443-lazy-scales",
         "vendors": {
             "amazon": {
@@ -560,8 +560,8 @@
         "cover": "dragon-source.jpg",
         "author": "Glenn Birmingham",
         "title": "Dragon Source",
-        "rating": "4.36",
-        "r_count": "25",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/48591890-dragon-source",
         "vendors": {
             "amazon": {
@@ -604,8 +604,8 @@
         "cover": "when-women-were-dragons.jpg",
         "author": "Kelly Barnhill",
         "title": "When Women Were Dragons",
-        "rating": "3.81",
-        "r_count": "71895",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/57033379-when-women-were-dragons",
         "vendors": {
             "amazon": {
@@ -653,8 +653,8 @@
         "author": "Melissa McShane",
         "title": "Spark the Fire",
         "series": "Dragons of Mother Stone 1",
-        "rating": "4.19",
-        "r_count": "99",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/58389420-spark-the-fire",
         "vendors": {
             "amazon": {
@@ -702,65 +702,12 @@
         "audiobook": false
     },
     {
-        "cover": "eyrie.jpg",
-        "author": "K. Vale Nagle",
-        "title": "Eyrie",
-        "series": "Gryphon Insurrection 1",
-        "rating": "4",
-        "r_count": "165",
-        "url": "https://www.goodreads.com/book/show/44292600-eyrie",
-        "vendors": {
-            "amazon": {
-                "url": "https://www.amazon.com/gp/product/B07NCPM2XP/ref=x_gr_bb_amazon",
-                "drm": true,
-                "free": false
-            },
-            "kobo": {
-                "url": "https://www.kobo.com/us/en/ebook/eyrie-7",
-                "drm": false,
-                "free": false
-            },
-            "bn": {
-                "url": "https://www.barnesandnoble.com/w/eyrie-k-vale-nagle/1130667377?ean=2940162948940",
-                "drm": false,
-                "free": false
-            },
-            "rr": null,
-            "other": [
-                {
-                    "label": "itch.io",
-                    "url": "https://kvalenagle.itch.io/eyrie",
-                    "drm": false,
-                    "free": true
-                },
-                {
-                    "label": "Smashwords",
-                    "url": "https://www.smashwords.com/books/view/1041838",
-                    "drm": false,
-                    "free": true
-                }
-            ],
-            "sub": {
-                "label": "Kobo Plus",
-                "url": "https://www.kobo.com/us/en/ebook/eyrie-7",
-                "drm": false,
-                "sub_ko": true,
-                "free": false
-            }
-        },
-        "drmFree": true,
-        "free": false,
-        "missing": false,
-        "digitalOnly": false,
-        "audiobook": true
-    },
-    {
         "cover": "axtara-banking-and-finance.jpg",
         "author": "Max Florschutz",
         "title": "Axtara - Banking and Finance",
         "series": "Axtara 1",
-        "rating": "4.5",
-        "r_count": "119",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/56383097-axtara---banking-and-finance",
         "vendors": {
             "amazon": {
@@ -790,8 +737,8 @@
         "cover": "the-wearle.jpg",
         "author": "Chris d'Lacey",
         "title": "The Wearle",
-        "rating": "3.92",
-        "r_count": "1408",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/27409234-the-wearle",
         "vendors": {
             "amazon": {
@@ -829,8 +776,8 @@
         "author": "Justin A. Lee",
         "title": "The Dragon's Paladin",
         "series": "Scales and Honor 1",
-        "rating": "4.13",
-        "r_count": "56",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/40910145-scales-and-honor",
         "vendors": {
             "amazon": {
@@ -865,8 +812,8 @@
         "author": "H. Leighton Dickson",
         "title": "Dragon of Ash & Stars",
         "series": "The Dragons of Solunas 1",
-        "rating": "4.34",
-        "r_count": "1876",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/31279046-dragon-of-ash-stars",
         "vendors": {
             "amazon": {
@@ -897,8 +844,8 @@
         "author": "Rowan Silver",
         "title": "Feathers of Gold",
         "series": "Dragons and Skylines 1",
-        "rating": "4.28",
-        "r_count": "96",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/61998449-feathers-of-gold",
         "vendors": {
             "amazon": {
@@ -924,42 +871,11 @@
         "audiobook": true
     },
     {
-        "cover": "song-of-the-summer-king.jpg",
-        "author": "Jess E. Owen",
-        "title": "Song of the Summer King",
-        "series": "The Summer King Chronicles 1",
-        "rating": "4.33",
-        "r_count": "1111",
-        "url": "https://www.goodreads.com/book/show/15751365-song-of-the-summer-king",
-        "vendors": {
-            "amazon": {
-                "url": "https://www.amazon.com/gp/product/B07Z9QHMD2",
-                "drm": true,
-                "free": false
-            },
-            "kobo": null,
-            "bn": null,
-            "rr": null,
-            "other": null,
-            "sub": {
-                "label": "KU",
-                "url": "https://www.amazon.com/gp/product/B07Z9QHMD2",
-                "drm": true,
-                "sub_ki": true,
-                "free": false
-            }
-        },
-        "drmFree": false,
-        "free": false,
-        "digitalOnly": false,
-        "audiobook": true
-    },
-    {
         "cover": "queen-in-the-mud.jpg",
         "author": "Maari",
         "title": "Queen in the Mud",
-        "rating": "4.44",
-        "r_count": "1815",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/53415675-queen-in-the-mud",
         "vendors": {
             "amazon": {
@@ -995,8 +911,8 @@
         "author": "Chester Young",
         "title": "The Forgotten Element",
         "series": "Dragons of Etra 1",
-        "rating": "4.38",
-        "r_count": "8",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/58812436-the-forgotten-element",
         "vendors": {
             "amazon": null,
@@ -1012,42 +928,11 @@
         "audiobook": null
     },
     {
-        "cover": "the-gryphon-generation.jpg",
-        "author": "Alexander Bizzell",
-        "title": "The Gryphon Generation",
-        "series": "The Gryphon Generation 1",
-        "rating": "3.8",
-        "r_count": "80",
-        "url": "https://www.goodreads.com/book/show/39332595-the-gryphon-generation",
-        "vendors": {
-            "amazon": {
-                "url": "https://www.amazon.com/gp/product/B07BKVWLDN",
-                "drm": true,
-                "free": false
-            },
-            "kobo": null,
-            "bn": null,
-            "rr": null,
-            "other": null,
-            "sub": {
-                "label": "KU",
-                "url": "https://www.amazon.com/gp/product/B07BKVWLDN",
-                "drm": true,
-                "sub_ki": true,
-                "free": false
-            }
-        },
-        "drmFree": false,
-        "free": false,
-        "digitalOnly": false,
-        "audiobook": true
-    },
-    {
         "cover": "royal-red.jpg",
         "author": "K.C. Shaw",
         "title": "Royal Red",
-        "rating": "4.42",
-        "r_count": "64",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/61879225-royal-red",
         "vendors": {
             "amazon": {
@@ -1074,8 +959,8 @@
         "cover": "my-father's-dragon.jpg",
         "author": "Ruth Stiles Gannett",
         "title": "My Father's Dragon",
-        "rating": "4.11",
-        "r_count": "41738",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/en/book/show/34898",
         "vendors": {
             "amazon": {
@@ -1106,8 +991,8 @@
         "cover": "lutapolii-white-dragon-of-the-south.jpg",
         "author": "Deryn Pittar",
         "title": "Lutapolii: White Dragon of the South",
-        "rating": "4.48",
-        "r_count": "50",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/38139523-lutapolii",
         "vendors": {
             "amazon": {
@@ -1136,8 +1021,8 @@
         "cover": "lohikarmen.jpg",
         "author": "Carmine Bruzi",
         "title": "Lohikarmen",
-        "rating": "4.23",
-        "r_count": "13",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/93244973-lohikarmen",
         "vendors": {
             "amazon": {
@@ -1174,8 +1059,8 @@
         "cover": "kraamlok.jpg",
         "author": "Shaaron Plumb",
         "title": "Kraamlok",
-        "rating": "4.5",
-        "r_count": "22",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/55846969-kraamlok",
         "vendors": {
             "amazon": {
@@ -1204,8 +1089,8 @@
         "cover": "dragon-student-sythyry's-journal.jpg",
         "author": "Bard Bloom",
         "title": "Dragon Student: Sythyry's Journal",
-        "rating": "4.33",
-        "r_count": "12",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/31362246-dragon-student",
         "vendors": {
             "amazon": {
@@ -1234,8 +1119,8 @@
         "author": "Cale Plamann",
         "title": "A Dream of Wings & Flame",
         "series": "A Dream of Wings & Flame 1",
-        "rating": "4.37",
-        "r_count": "612",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/62015939-a-dream-of-wings-flame",
         "vendors": {
             "amazon": {
@@ -1271,8 +1156,8 @@
         "author": "L.J. Davies",
         "title": "The Last Monster On Earth",
         "series": "The Last Monster On Earth 1",
-        "rating": "4.28",
-        "r_count": "43",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/123254723-the-last-monster-on-earth",
         "vendors": {
             "amazon": {
@@ -1301,8 +1186,8 @@
         "cover": "where-dragons-rule-dissent.jpg",
         "author": "Sonny Dae",
         "title": "Where Dragons Rule: Dissent",
-        "rating": "5",
-        "r_count": "4",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/219321416-where-dragons-rule",
         "vendors": {
             "amazon": {
@@ -1326,8 +1211,8 @@
         "author": "Rurik Redwolf",
         "title": "Burning Stars: Afterdark",
         "series": "Burning Stars 1",
-        "rating": "4.39",
-        "r_count": "36",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/57716668",
         "vendors": {
             "amazon": {
@@ -1356,8 +1241,8 @@
         "cover": "the-princess's-feathers.jpg",
         "author": "Zang",
         "title": "The Princess's Feathers",
-        "rating": "4.86",
-        "r_count": "21",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/228369339-the-princess-s-feathers",
         "vendors": {
             "amazon": {
@@ -1389,8 +1274,8 @@
         "cover": "the-crimson-torch.jpg",
         "author": "Angela Holder",
         "title": "The Crimson Torch",
-        "rating": "4.67",
-        "r_count": "33",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/41552747-the-crimson-torch",
         "vendors": {
             "amazon": {
@@ -1416,41 +1301,12 @@
         "audiobook": false
     },
     {
-        "cover": "raptor-red.jpg",
-        "author": "Robert T. Bakker",
-        "title": "Raptor Red",
-        "rating": "3.96",
-        "r_count": "9724",
-        "url": "https://www.goodreads.com/book/show/117710.Raptor_Red",
-        "vendors": {
-            "amazon": {
-                "url": "https://www.amazon.com/Raptor-Red-Robert-T-Bakker-ebook/dp/B0DJPGLC51",
-                "drm": true,
-                "free": false
-            },
-            "kobo": {
-                "label": "Audiobook",
-                "url": "https://www.kobo.com/ch/en/audiobook/raptor-red",
-                "drm": true,
-                "free": false,
-                "non_spec": true
-            },
-            "bn": null,
-            "rr": null,
-            "other": null
-        },
-        "drmFree": false,
-        "free": false,
-        "digitalOnly": false,
-        "audiobook": true
-    },
-    {
         "cover": "eyes-of-silver.jpg",
         "author": "Rowan Silver",
         "title": "Eyes of Silver",
         "series": "Dragons and Skylines 2",
-        "rating": "4.55",
-        "r_count": "56",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/157643353-eyes-of-silver",
         "vendors": {
             "amazon": {
@@ -1480,8 +1336,8 @@
         "author": "Chester Young",
         "title": "Tail of Revenge",
         "series": "Celestial Heir 1",
-        "rating": "4.6",
-        "r_count": "15",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/63358359-tail-of-revenge",
         "vendors": {
             "amazon": {
@@ -1511,8 +1367,8 @@
         "author": "Necoco",
         "title": "Reincarnated as a Dragon Hatchling",
         "series": "Reincarnated as a Dragon Hatchling 1",
-        "rating": "4.11",
-        "r_count": "531",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/58269339-reincarnated-as-a-dragon-hatchling-light-novel-vol-1",
         "vendors": {
             "amazon": {
@@ -1558,8 +1414,8 @@
         "author": "Heiko Ehlers",
         "title": "Silver, Sand, and Silken Wings",
         "series": "Silver, Sand, and Silken Wings 1",
-        "rating": "4.55",
-        "r_count": "29",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/180210699-silver-sand-and-silken-wings",
         "vendors": {
             "amazon": {
@@ -1589,8 +1445,8 @@
         "author": "Mari Mancus",
         "title": "New Dragon City",
         "series": "New Dragon City 1",
-        "rating": "4.16",
-        "r_count": "1445",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/60382739-new-dragon-city",
         "vendors": {
             "amazon": {
@@ -1621,6 +1477,8 @@
         "cover": "steven-de-luca.jpg",
         "author": "Steven De Luca",
         "title": "Bound in Scales",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/36703268-bound-in-scales",
         "vendors": {
             "amazon": {
@@ -1643,17 +1501,15 @@
         "drmFree": false,
         "free": false,
         "digitalOnly": false,
-        "audiobook": true,
-        "rating": "4.42",
-        "r_count": "45"
+        "audiobook": true
     },
     {
         "cover": "petrichor.jpg",
         "author": "C.E. Wright",
         "title": "Petrichor",
         "series": "Head in the Clouds 1",
-        "rating": "3.94",
-        "r_count": "16",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/63008129-petrichor",
         "vendors": {
             "amazon": {
@@ -1682,8 +1538,8 @@
         "cover": "highfire.jpg",
         "author": "Eoin Colfer",
         "title": "Highfire",
-        "rating": "3.68",
-        "r_count": "8897",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/44890077-highfire",
         "vendors": {
             "amazon": {
@@ -1712,8 +1568,8 @@
         "cover": "dragon-prayers.jpg",
         "author": "M.J. McPike",
         "title": "Dragon Prayers",
-        "rating": "4.67",
-        "r_count": "9",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/28809746-dragon-prayers",
         "vendors": {
             "amazon": {
@@ -1742,6 +1598,8 @@
         "cover": "here-be-dragons.png",
         "author": "Second_sol",
         "title": "Here Be Dragons",
+        "rating": "",
+        "r_count": "",
         "vendors": {
             "amazon": null,
             "kobo": null,
@@ -1763,8 +1621,8 @@
         "author": "Rowan Silver",
         "title": "Scales of Pearl",
         "series": "Dragons and Skylines 3",
-        "rating": "4.52",
-        "r_count": "44",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/201332881",
         "vendors": {
             "amazon": {
@@ -1812,43 +1670,12 @@
         "audiobook": false
     },
     {
-        "cover": "the-fifth.jpg",
-        "author": "Saylor Ferguson",
-        "title": "The Fifth",
-        "series": "The Dragons of Time 1",
-        "rating": "4.36",
-        "r_count": "22",
-        "url": "https://www.goodreads.com/book/show/148190351-the-fifth",
-        "vendors": {
-            "amazon": {
-                "url": "https://www.amazon.com/Fifth-Dragons-Time-Book-ebook/dp/B0C4MLZ6B6",
-                "drm": true,
-                "free": false
-            },
-            "kobo": null,
-            "bn": null,
-            "rr": null,
-            "other": null,
-            "sub": {
-                "label": "KU",
-                "url": "https://www.amazon.com/Fifth-Dragons-Time-Book-ebook/dp/B0C4MLZ6B6",
-                "drm": true,
-                "sub_ki": true,
-                "free": false
-            }
-        },
-        "drmFree": false,
-        "free": false,
-        "digitalOnly": false,
-        "audiobook": false
-    },
-    {
         "cover": "the-chosen-prince.jpg",
         "author": "Shaidan Barnes",
         "title": "The Chosen Prince",
         "series": "Scales of Fate 1",
-        "rating": "4.3",
-        "r_count": "66",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/205755050",
         "vendors": {
             "amazon": {
@@ -1878,8 +1705,8 @@
         "author": "J.F.R. Coates",
         "title": "Axinstone",
         "series": "The Destiny of Dragons 1",
-        "rating": "4.32",
-        "r_count": "38",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/204351073",
         "vendors": {
             "amazon": {
@@ -1930,8 +1757,8 @@
         "cover": "smash-the-world's-shell.jpg",
         "author": "Daniel Fliederbaum",
         "title": "Smash the World's Shell",
-        "rating": "4.34",
-        "r_count": "29",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/197688271",
         "vendors": {
             "amazon": {
@@ -1981,8 +1808,8 @@
         "author": "Naomi Novik",
         "title": "His Majesty's Dragon",
         "series": "Temeraire 1",
-        "rating": "4.07",
-        "r_count": "112011",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/18626894-his-majesty-s-dragon",
         "vendors": {
             "amazon": {
@@ -2003,43 +1830,6 @@
             },
             "rr": null,
             "other": null
-        },
-        "drmFree": false,
-        "free": false,
-        "digitalOnly": false,
-        "audiobook": true
-    },
-    {
-        "cover": "the-black-gryphon.jpg",
-        "author": "Mercedes Lackey",
-        "title": "The Black Gryphon",
-        "rating": "4.09",
-        "r_count": "15524",
-        "url": "https://www.goodreads.com/book/show/176804.The_Black_Gryphon",
-        "vendors": {
-            "amazon": {
-                "url": "https://www.amazon.com/Black-Gryphon-Mage-Wars-Book-ebook/dp/B002IEUV4G",
-                "drm": true,
-                "free": false
-            },
-            "kobo": {
-                "url": "https://www.kobo.com/ww/en/ebook/the-black-gryphon-4",
-                "drm": true,
-                "free": false,
-                "adobe_drm": true
-            },
-            "bn": {
-                "url": "https://www.barnesandnoble.com/w/the-black-gryphon-mercedes-lackey/1100315049",
-                "drm": true,
-                "free": false
-            },
-            "rr": null,
-            "other": {
-                "label": "Google",
-                "url": "https://play.google.com/store/books/details?id=4liJEAAAQBAJ",
-                "adobe_drm": true,
-                "free": false
-            }
         },
         "drmFree": false,
         "free": false,
@@ -2093,8 +1883,8 @@
         "author": "Max Florschutz",
         "title": "Axtara - Magic and Mischief",
         "series": "Axtara 2",
-        "rating": "4.71",
-        "r_count": "51",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/215354625-axtara---magic-and-mischief",
         "vendors": {
             "amazon": {
@@ -2123,8 +1913,8 @@
         "cover": "the-dragon's-call.jpg",
         "author": "Peter Dressler",
         "title": "The Dragon's Call",
-        "rating": "4.23",
-        "r_count": "26",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/54020637-the-dragon-s-call",
         "vendors": {
             "amazon": {
@@ -2170,50 +1960,12 @@
         "audiobook": false
     },
     {
-        "cover": "hunted.jpg",
-        "author": "Skye Melki-Wegner",
-        "title": "Hunted",
-        "series": "The Deadlands 1",
-        "rating": "3.92",
-        "r_count": "546",
-        "url": "https://www.goodreads.com/book/show/60405316-the-deadlands",
-        "vendors": {
-            "amazon": {
-                "url": "https://www.amazon.com/Deadlands-Hunted-Skye-Melki-Wegner-ebook/dp/B0BV5PYVTM",
-                "drm": true,
-                "free": false
-            },
-            "kobo": {
-                "url": "https://www.kobo.com/us/en/ebook/the-deadlands-hunted",
-                "drm": true,
-                "free": false,
-                "adobe_drm": true
-            },
-            "bn": {
-                "url": "https://www.barnesandnoble.com/w/the-deadlands-skye-melki-wegner/1140990396?ean=9781250827685",
-                "drm": true,
-                "free": false
-            },
-            "rr": null,
-            "other": {
-                "label": "Google",
-                "url": "https://play.google.com/store/books/details?id=765nEAAAQBAJ",
-                "adobe_drm": true,
-                "free": false
-            }
-        },
-        "drmFree": false,
-        "free": false,
-        "digitalOnly": false,
-        "audiobook": true
-    },
-    {
         "cover": "upon-wings-of-change.png",
         "author": "Crystal Scherer",
         "title": "Upon Wings of Change",
         "series": "Upon Wings of Change 1",
-        "rating": "4.68",
-        "r_count": "210",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/53136511-upon-wings-of-change",
         "vendors": {
             "amazon": {
@@ -2260,8 +2012,8 @@
         "cover": "the-bakery-dragon.jpg",
         "author": "Devin Elle Kurtz",
         "title": "The Bakery Dragon",
-        "rating": "4.47",
-        "r_count": "3074",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/205484319-the-bakery-dragon",
         "vendors": {
             "amazon": {
@@ -2306,8 +2058,8 @@
         "author": "Justin A. Lee",
         "title": "Emerald Secrets",
         "series": "Scales and Honor 2",
-        "rating": "4.1",
-        "r_count": "21",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/219844368-scales-and-honor",
         "vendors": {
             "amazon": {
@@ -2341,8 +2093,8 @@
         "author": "Rurik Redwolf",
         "title": "Ashen Dreams",
         "series": "Burning Stars 2",
-        "rating": "4.77",
-        "r_count": "31",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/126575317-ashen-dreams",
         "vendors": {
             "amazon": {
@@ -2371,8 +2123,8 @@
         "cover": "dragons-of-frost-and-fang.jpg",
         "author": "Rowan Silver",
         "title": "Dragons of Frost and Fang",
-        "rating": "4.67",
-        "r_count": "24",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/222297375-dragons-of-frost-and-fang",
         "vendors": {
             "amazon": {
@@ -2402,8 +2154,8 @@
         "author": "Rakeela Windrider",
         "title": "The Tachanigh-Kelkaith",
         "seroes": "Theoma 1",
-        "rating": "4.5",
-        "r_count": "8",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/142401180",
         "vendors": {
             "amazon": {
@@ -2430,8 +2182,8 @@
         "author": "Shaidan Barnes",
         "title": "The Scarred Prince",
         "series": "Scales of Fate 2",
-        "rating": "4.84",
-        "r_count": "32",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/222257591-scales-of-fate",
         "vendors": {
             "amazon": {
@@ -2460,6 +2212,8 @@
         "cover": "silver-talon-college-of-magic.png",
         "author": "ALHHill",
         "title": "Silver Talon College of Magic",
+        "rating": "",
+        "r_count": "",
         "vendors": {
             "amazon": null,
             "kobo": null,
@@ -2480,6 +2234,8 @@
         "cover": "the-crushing-light.png",
         "author": "AlbinoDeer",
         "title": "The Crushing Light",
+        "rating": "",
+        "r_count": "",
         "vendors": {
             "amazon": null,
             "kobo": null,
@@ -2501,8 +2257,8 @@
         "author": "S. Blakeway",
         "title": "How to be a Hero: (And Part-Time Dragon)",
         "series": "Part-Time Dragon 1",
-        "rating": "4.58",
-        "r_count": "60",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/25770175-how-to-be-a-hero",
         "vendors": {
             "amazon": {
@@ -2532,8 +2288,8 @@
         "author": "DM Gilmore",
         "title": "The Lost Firebreather",
         "series": "The Lost Firebreather 1",
-        "rating": "4.59",
-        "r_count": "17",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/229244868-the-lost-firebreather",
         "vendors": {
             "amazon": {
@@ -2562,6 +2318,8 @@
         "cover": "the-shining-wyrm.png",
         "author": "Nighzmarquls",
         "title": "The Shining Wyrm",
+        "rating": "",
+        "r_count": "",
         "vendors": {
             "amazon": null,
             "kobo": null,
@@ -2582,8 +2340,8 @@
         "cover": "meghanology.png",
         "author": "theInmara",
         "title": "Meghanology",
-        "rating": "5",
-        "r_count": "2",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/223465577-girldragongizzard",
         "vendors": {
             "amazon": {
@@ -2619,8 +2377,8 @@
         "cover": "a-chronicle-of-lies-the-dark-sculptor.jpg",
         "author": "Abraham Carson",
         "title": "A Chronicle of Lies: The Dark Sculptor",
-        "rating": "4.9",
-        "r_count": "29",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/221381946-a-chronicle-of-lies",
         "vendors": {
             "amazon": {
@@ -2653,8 +2411,8 @@
         "cover": "dragon's-soul.jpg",
         "author": "J.F.R. Coates",
         "title": "Dragon's Soul",
-        "rating": "4.25",
-        "r_count": "16",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/234797093-dragon-s-soul",
         "vendors": {
             "amazon": {
@@ -2703,8 +2461,8 @@
         "cover": "the-waters-of-nyra-volume-1.jpg",
         "author": "Kelly Michelle Baker",
         "title": "The Waters of Nyra: Volume 1",
-        "rating": "4.15",
-        "r_count": "53",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/36762063-the-waters-of-nyra",
         "vendors": {
             "amazon": {
@@ -2740,8 +2498,8 @@
         "author": "S.J. Higbee",
         "title": "Picky Eaters",
         "series": "Picky Eaters 1",
-        "rating": "4.18",
-        "r_count": "28",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/54221358-picky-eaters",
         "vendors": {
             "amazon": {
@@ -2771,8 +2529,8 @@
         "author": "Heiko Ehlers",
         "title": "Sapphire Stars and Sandstone Hearts",
         "series": "Silver, Sand, and Silken Wings 2",
-        "rating": "4.8",
-        "r_count": "15",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/231316014-sapphire-stars-and-sandstone-hearts",
         "vendors": {
             "amazon": {
@@ -2801,6 +2559,8 @@
         "cover": "the-wyrms-of-&alon.png",
         "author": "M.C. Siegel",
         "title": "The Wyrms of &alon",
+        "rating": "",
+        "r_count": "",
         "vendors": {
             "amazon": null,
             "kobo": null,
@@ -2872,8 +2632,8 @@
         "cover": "tails-of-the-west-the-silver-fangs.jpg",
         "author": "Mr M Remington",
         "title": "Tails of the West: The Silver Fangs",
-        "rating": "5",
-        "r_count": "12",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/222852128-tails-of-the-west",
         "vendors": {
             "amazon": {
@@ -2896,8 +2656,8 @@
         "author": "DM Gilmore",
         "title": "The Iron Prince",
         "series": "The Lost Firebreather 2",
-        "rating": "4.75",
-        "r_count": "4",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/242397468",
         "vendors": {
             "amazon": {
@@ -2923,40 +2683,12 @@
         "audiobook": true
     },
     {
-        "cover": "knight-of-talonia.jpg",
-        "author": "Rakeela Windrider",
-        "title": "Knight of Talonia",
-        "rating": "4.8",
-        "r_count": "5",
-        "url": "https://www.goodreads.com/book/show/237419535",
-        "vendors": {
-            "amazon": {
-                "url": "https://www.amazon.com/gp/product/B0FFWZSXGD",
-                "drm": true,
-                "free": false
-            },
-            "kobo": null,
-            "bn": null,
-            "rr": null,
-            "other": {
-                "label": "Patreon",
-                "url": "https://www.patreon.com/posts/knight-of-has-132501448",
-                "drm": false,
-                "free": true
-            }
-        },
-        "drmFree": true,
-        "free": true,
-        "digitalOnly": false,
-        "audiobook": false
-    },
-    {
         "cover": "call-me-dragon.jpg",
         "author": "Marc Secchia",
         "title": "Call Me Dragon",
         "series": "Dragon Fires Rising 1",
-        "rating": "4.41",
-        "r_count": "615",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/55781409",
         "vendors": {
             "amazon": {
@@ -2985,8 +2717,8 @@
         "cover": "dragons-of-the-veil.jpg",
         "author": "DeVout Numelran",
         "title": "Dragons of the Veil",
-        "rating": "3.75",
-        "r_count": "4",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/240644462",
         "vendors": {
             "amazon": {
@@ -3015,8 +2747,8 @@
         "cover": "tumbleteller.jpg",
         "author": "Lars Jensen",
         "title": "Tumbleteller",
-        "rating": "4.6",
-        "r_count": "10",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/122778258-tumbleteller",
         "vendors": {
             "amazon": {
@@ -3067,8 +2799,8 @@
         "author": "Cornelia Funke",
         "title": "Dragon Rider",
         "series": "Dragon Rider 1",
-        "rating": "4",
-        "r_count": "85642",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/21171501-dragon-rider",
         "vendors": {
             "amazon": {
@@ -3120,8 +2852,8 @@
         "author": "The Illogic",
         "title": "Reverting Scales",
         "series": "Reverting Scales 1",
-        "rating": "3.8",
-        "r_count": "10",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/205531889-reverting-scales",
         "vendors": {
             "amazon": {
@@ -3150,6 +2882,8 @@
         "cover": "a-draconic-rebirth.png",
         "author": "Undercover_Dragon1",
         "title": "A Draconic Rebirth",
+        "rating": "",
+        "r_count": "",
         "vendors": {
             "amazon": null,
             "kobo": null,
@@ -3170,34 +2904,6 @@
         "drmFree": true,
         "free": true,
         "digitalOnly": true,
-        "audiobook": false
-    },
-    {
-        "cover": "test.jpg",
-        "author": "Test",
-        "title": "Reversing Scales",
-        "url": "https://youtu.be/dQw4w9WgXcQ",
-        "vendors": {
-            "amazon": {
-                "url": "https://youtu.be/dQw4w9WgXcQ",
-                "drm": false,
-                "free": true
-            },
-            "kobo": null,
-            "bn": null,
-            "rr": null,
-            "other": null,
-            "sub": {
-                "label": "KU",
-                "url": "https://youtu.be/dQw4w9WgXcQ",
-                "drm": false,
-                "sub_ki": true,
-                "free": false
-            }
-        },
-        "drmFree": true,
-        "free": true,
-        "digitalOnly": false,
         "audiobook": false
     }
 ]
