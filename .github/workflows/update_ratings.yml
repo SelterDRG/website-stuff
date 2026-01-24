@@ -23,7 +23,7 @@ jobs:
           pip install requests beautifulsoup4
 
       - name: Run scraper
-        run: python scrape_ratings.py
+        run: python scrape.py
 
       - name: Commit and push if changed
         run: |
