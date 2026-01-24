@@ -8,7 +8,7 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; BookRatingsBot/1.0; +https://github.com/SelterDRG/website-stuff)"
 }
 
-BOOKS_FILE = "books(full-list).json"
+BOOKS_FILE = "books_full-list.json"
 
 def scrape_goodreads(url):
     resp = requests.get(url, headers=HEADERS, timeout=20)
@@ -78,4 +78,5 @@ def main():
         print("No changes.")
 
 if __name__ == "__main__":
+
     main()
