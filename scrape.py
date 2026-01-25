@@ -1,7 +1,7 @@
 import json
 import time
 import re
-from typing import Optional, Tuple
+from typing import Optional, Tuple, Dict, List
 import requests
 from bs4 import BeautifulSoup
 
@@ -9,8 +9,11 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; BookRatingsBot/1.0; +https://github.com/SelterDRG/website-stuff)"
 }
 
-# Change this to your actual filename:
-BOOKS_FILE = "books(full-list).json"
+# Two JSON files to update
+BOOKS_FILES = [
+    "books(full-list).json",
+    "books(book-club).json",
+]
 
 # ---------- Helpers ----------
 
@@ -28,7 +31,7 @@ def pick_source_url(book: dict) -> Tuple[Optional[str], Optional[str]]:
     """
     Returns (source, url) where source is 'goodreads' or 'royalroad' or None.
     Rules:
-      - if book['url'] is not None -> use it (assumed Goodreads in your dataset)
+      - if book['url'] is not None -> use it
       - else if vendors.rr.url exists -> use RoyalRoad URL
       - else -> None
     """
@@ -44,6 +47,10 @@ def pick_source_url(book: dict) -> Tuple[Optional[str], Optional[str]]:
 
     return None, None
 
+def _format_rating(rating: float) -> str:
+    # Keep your string format style: "4.7" or "4.73"
+    return f"{rating:.2f}".rstrip("0").rstrip(".")
+
 # ---------- Goodreads scraping ----------
 
 def scrape_goodreads(url: str) -> Tuple[float, int]:
@@ -51,7 +58,6 @@ def scrape_goodreads(url: str) -> Tuple[float, int]:
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
 
-    # Average rating: <div class="RatingStatistics__rating" aria-hidden="true">5.00</div>
     rating_div = soup.find("div", class_="RatingStatistics__rating")
     if not rating_div:
         rating_div = soup.find("div", class_=lambda x: x and "RatingStatistics__rating" in x)
@@ -60,7 +66,6 @@ def scrape_goodreads(url: str) -> Tuple[float, int]:
 
     rating_value = _clean_float(rating_div.get_text(strip=True))
 
-    # Ratings count: <span data-testid="ratingsCount" ...>4 ratings</span>
     count_span = soup.find("span", {"data-testid": "ratingsCount"})
     if not count_span:
         raise ValueError("Goodreads: ratingsCount element not found")
@@ -77,7 +82,7 @@ def scrape_royalroad(url: str) -> Tuple[float, int]:
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
 
-    # Score:
+    # Prefer aria-label="4.73 stars", fallback to data-content="4.73 / 5"
     score_span = soup.select_one('span[aria-label*="stars"]')
     if not score_span:
         raise ValueError("RoyalRoad: score span with aria-label not found")
@@ -87,20 +92,20 @@ def scrape_royalroad(url: str) -> Tuple[float, int]:
 
     score_value: Optional[float] = None
 
-    # aria-label example: "4.73 stars"
     m = re.search(r"([0-9]+(?:[.,][0-9]+)?)\s*stars", aria, flags=re.IGNORECASE)
     if m:
         score_value = _clean_float(m.group(1))
     else:
-        # data-content example: "4.73 / 5"
         m2 = re.search(r"([0-9]+(?:[.,][0-9]+)?)\s*/\s*5", data_content)
         if m2:
             score_value = _clean_float(m2.group(1))
 
     if score_value is None:
-        raise ValueError(f"RoyalRoad: could not parse score from aria-label={aria!r} data-content={data_content!r}")
+        raise ValueError(
+            f"RoyalRoad: could not parse score from aria-label={aria!r} data-content={data_content!r}"
+        )
 
-    # Ratings count:
+    # Ratings count: find "Ratings :" then use the next <li>
     lis = soup.select("ul.list-unstyled li")
     if not lis:
         lis = soup.find_all("li")
@@ -111,7 +116,6 @@ def scrape_royalroad(url: str) -> Tuple[float, int]:
         key_norm = re.sub(r"\s+", " ", key).strip().lower()
 
         if key_norm in ("ratings :", "ratings:", "ratings"):
-            # find next li with a number
             if i + 1 < len(lis):
                 val_text = lis[i + 1].get_text(" ", strip=True)
                 rating_count = _clean_int(val_text)
@@ -122,69 +126,112 @@ def scrape_royalroad(url: str) -> Tuple[float, int]:
 
     return score_value, rating_count
 
-# ---------- Main ----------
+# ---------- Core logic ----------
 
-def main():
-    with open(BOOKS_FILE, encoding="utf-8") as f:
-        books = json.load(f)
+def load_json(path: str) -> List[dict]:
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
 
-    updated = False
-    failures = 0
-    checked = 0
+def write_json(path: str, data: List[dict]) -> None:
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
 
-    for idx, book in enumerate(books, start=1):
-        title = book.get("title", "UNKNOWN")
-
+def build_targets(all_books: List[dict]) -> Dict[str, str]:
+    """
+    Returns dict url -> source ("goodreads"/"royalroad") for all scrapeable entries,
+    deduped across both files.
+    """
+    targets: Dict[str, str] = {}
+    for book in all_books:
         source, url = pick_source_url(book)
-        if not url or not source:
-            print(f"[{idx}] Skipping (no Goodreads url, no RR vendor url): {title}")
+        if not source or not url:
             continue
+        # If the same URL somehow appears with different sources, keep the first seen.
+        targets.setdefault(url, source)
+    return targets
 
-        checked += 1
-        print(f"[{idx}] Scraping ({source}): {title}")
+def scrape_targets(targets: Dict[str, str], delay_seconds: int = 2) -> Dict[str, Tuple[str, str]]:
+    """
+    Returns cache dict url -> (rating_str, r_count_str)
+    """
+    cache: Dict[str, Tuple[str, str]] = {}
+    failures = 0
+    total = len(targets)
 
+    for idx, (url, source) in enumerate(targets.items(), start=1):
+        print(f"[{idx}/{total}] Scraping ({source}): {url}")
         try:
             if source == "goodreads":
                 rating, count = scrape_goodreads(url)
             else:
                 rating, count = scrape_royalroad(url)
 
-            rating_str = f"{rating:.2f}".rstrip("0").rstrip(".")
-            count_str = str(count)
-
-            old_rating = book.get("rating", "")
-            old_count = book.get("r_count", "")
-
-            print(f"     Found: ★ {rating_str} | {count_str} ratings")
-
-            if old_rating != rating_str or old_count != count_str:
-                book["rating"] = rating_str
-                book["r_count"] = count_str
-                updated = True
-                print("     → Updated")
-            else:
-                print("     → No change")
-
-            # Anti-DDOS delay
-            time.sleep(2)
+            cache[url] = (_format_rating(rating), str(count))
+            print(f"    Found: ★ {cache[url][0]} | {cache[url][1]} ratings")
 
         except Exception as e:
             failures += 1
-            print(f"     ERROR: {e}")
+            print(f"    ERROR: {e}")
 
-    if checked == 0:
-        print("\nNo items had a Goodreads url or RR vendor url to scrape.")
-        return
+        time.sleep(delay_seconds)
 
-    if failures > checked * 0.3:
+    if total > 0 and failures > total * 0.3:
         print("\nWARNING: Many failures — site HTML may have changed or requests were blocked.")
 
-    if updated:
-        with open(BOOKS_FILE, "w", encoding="utf-8") as f:
-            json.dump(books, f, indent=2, ensure_ascii=False)
-        print("\nRatings updated and written to JSON.")
+    return cache
+
+def apply_cache(books: List[dict], cache: Dict[str, Tuple[str, str]]) -> bool:
+    """
+    Applies cached ratings to a list of books. Returns True if anything changed.
+    """
+    changed = False
+    for book in books:
+        source, url = pick_source_url(book)
+        if not url or url not in cache:
+            continue
+
+        rating_str, count_str = cache[url]
+        if book.get("rating", "") != rating_str or book.get("r_count", "") != count_str:
+            book["rating"] = rating_str
+            book["r_count"] = count_str
+            changed = True
+    return changed
+
+def main():
+    # Load both lists
+    data_by_file: Dict[str, List[dict]] = {}
+    for path in BOOKS_FILES:
+        print(f"Loading {path}...")
+        data_by_file[path] = load_json(path)
+
+    # Build a combined list of all books for deduping
+    combined = []
+    for books in data_by_file.values():
+        combined.extend(books)
+
+    targets = build_targets(combined)
+    if not targets:
+        print("No scrapeable entries found across both files.")
+        return
+
+    # Scrape each unique URL once
+    cache = scrape_targets(targets, delay_seconds=2)
+
+    # Apply results back to each file, write only if changed
+    any_written = False
+    for path, books in data_by_file.items():
+        changed = apply_cache(books, cache)
+        if changed:
+            write_json(path, books)
+            any_written = True
+            print(f"Wrote updates to {path}")
+        else:
+            print(f"No changes for {path}")
+
+    if any_written:
+        print("\nDone: updates written.")
     else:
-        print("\nNo updates made.")
+        print("\nDone: no updates needed.")
 
 if __name__ == "__main__":
     main()
