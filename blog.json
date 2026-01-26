@@ -1,4 +1,16 @@
 [
+    {
+    "title": "Amazon finally did it!",
+    "excerpt": "Also, I'm six days late. What?!",
+    "date": "2026-01-26",
+    "bodyHtml": [
+      "<figure class=\"blog-image small left\"><img src=\"https://raw.githubusercontent.com/SelterDRG/website-stuff/refs/heads/main/BlogImgs/slow.jpg\" alt=\"Like being late to your own birthday.\"></figure>",
+      "<p>Yep, it indeed happened. Amazon finally allowed the authors on its platform to grant their readers the ability to download their books in a DRM-free format. However, I wouldn't touch that celebratory champagne; before giving in, Amazon managed to piss into that bottle. The download itself is hidden pretty deep into one of the submenus, and, most importantly, there's no indication anywhere on the product page that an epub download is available, meaning that you would have to pretty much guess.</p>",
+      "<p>While this does prove my initial assumption that Amazon wasn't implementing this sudden change out of the goodness of their hearts, as well as making this table much more usefulm I don't feel particularly pleased by this turn of events. Especially now that it seems that not everyone is aware of the change, and I'll have to go about pestering the authors in DMs to make sure that their books are not DRM-free on purpose, rather than by accident.</p>",
+      "<p> Since Amazon does not disclose this information, I'll need some extra help to confirm the DRM status of the books on the list. I have already confirmed the status of at least half of them, but the rest are not im my Amazon library, and thus can't be verified by me. If you have one of those books in your library, please, check wether it has a \"Download available in additional formats\" line inside your \"Digital Content\" menu, and submit a pull request, clarifying its status, or, at least, inform me in Discord DMs."
+
+    ]
+  },  
   {
     "title": "Contributors wanted",
     "excerpt": "The more the merrier!",
@@ -7,8 +19,8 @@
       "<figure class=\"blog-image small left\"><img src=\"assets/blog/manymerry.png\" alt=\"Kinda horror-ish, no?\"></figure>",
       "<p>I was recently alerted of the fact that having an entire operation be run by a single individual introduces a single weak link into the entire thing - the aforementioned individual themselves. The website will only remain useful for as long as that person is willing to maintain it and keep the information there up to date. And while I'm not going to turn evil any time soon(I already am), I also can't guarantee that will always have the time, energy, and most importantly, ability to keep this website useful. Doubly so for the project that I initially considering embarking on - presenting all the books from The List™ in my table.</p>",
       "<p>In order to address that critical vulnerability, without redoing the entire thing from scratch in google sheets or something, which, lord knows, is just not something I still have in me after spending all the time to get this thing operational, I decided to, instead, upload the document with the actual data behind the table to a github repository, from where it would then be fetched by the website. This allows me to update the table without eating into my deploy budget on Netlify, but most importantly, it would allow me to invite more people to contribute to the project as Collaborators on github, the only thing that they would be required to have is a github account.</p>",
-      "<p>The same repository also contains the minimal data required for you to easily spin up your version of the table, if you so desire. Look for it in releases. You can test it locally by cmd'ing into the folder containing the files and starting up a local http server. (You will have to install some dependencies first, though.) Actually, maybe I'll eventually create a guide on how to test and host your own website for free and with very little effort.</p>"
-      "<p>In the meantime, here's the link to the repository in question: <a href="https://github.com/SelterDRG/book-table-data" target="_blank">Search on Google</a></p>"
+      "<p>The same repository also contains the minimal data required for you to easily spin up your version of the table, if you so desire. Look for it in releases. You can test it locally by cmd'ing into the folder containing the files and starting up a local http server. (You will have to install some dependencies first, though.) Actually, maybe I'll eventually create a guide on how to test and host your own website for free and with very little effort.</p>",
+      "<p>In the meantime, here's the link to the repository in question: <a href=\"https://github.com/SelterDRG/book-table-data\" target=\"_blank\">Search on Google</a></p>"
     ]
   },
   {
