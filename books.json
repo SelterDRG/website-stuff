@@ -3541,7 +3541,7 @@
         "series": "Dragonspark 1",
         "year": "2026",
         "rating": "4.6",
-        "r_count": "5"
+        "r_count": "5",
 		"inBookClub": true,
         "inFullList": true,
         "url": "https://www.goodreads.com/book/show/240528868-the-isle-of-arcanum",
@@ -3567,7 +3567,7 @@
         "drmFree": true,
         "free": false,
         "digitalOnly": false,
-        "audiobook": false,
+        "audiobook": false
     },
     {
         "cover": "memories-of-the-void.jpg",
